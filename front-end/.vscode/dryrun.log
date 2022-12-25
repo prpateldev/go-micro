@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/jas/jas/learn/udemy/working-with-microservices-in-go/go-micro/front-end'
+make: Leaving directory `/Users/jas/jas/learn/udemy/working-with-microservices-in-go/go-micro/front-end'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

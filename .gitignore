@@ -1,2 +1,6 @@
 /project/db-data/
 .DS_Store
+brokerApp
+authApp
+loggerServiceApp
+frontApp
