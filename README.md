@@ -1,6 +1,6 @@
 # Micro Services in Go
 
-This repository is an example of micro services written in go programming language. It has example of different approaches, e.g. it contains example of http services, RabbitMQ for managing queues, RPC and gRPC, mostly these examples can be seen in **Logger Service and Broker Service**.
+This repository is an example of micro services written in go programming language. The examples implemented in different approaches, e.g. it contains example of http services, RabbitMQ for managing queues, RPC and gRPC, mostly these examples can be seen in **Logger Service and Broker Service**.
 
 **Tools needed for GRPC**
 
